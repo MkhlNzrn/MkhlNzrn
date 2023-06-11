@@ -5,15 +5,6 @@
 
 #### 👨‍💻 Full-Stack developer
 
-#### My social networks:
-
-      
-   <a href="https://www.instagram.com/nazaryan_am/">
-      <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
-   <a href="https://t.me/miq_cb">
-      <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
-
-
 #### Skills:
 
    - Programming languages: 
@@ -27,6 +18,15 @@
 
       <img src="https://img.shields.io/badge/MacOS-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
       
+      
+   - My social networks:
+
+      <a href="https://www.instagram.com/nazaryan_am/">
+         <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
+      <a href="https://t.me/miq_cb">
+         <img top="0" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
+
+
   
    
       
