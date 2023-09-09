@@ -1,7 +1,7 @@
 ### <h3 align="left">Hi!<br/>
  My name is Michael, and I'm a programmer from Yerevan/Saint-Petersburg</h3>
 
-#### 👨‍💻 Full-Stack developer 
+#### 👨‍💻 Back-End developer 
 
 
 #### Skills:
